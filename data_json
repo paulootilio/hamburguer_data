@@ -1,0 +1,37 @@
+[
+  {
+    id: '1',
+    name: 'Fast Burguer',
+    image: 'https://storage.googleapis.com/grandchef-apps/gc3091/images/products/622927a7c116e.jpg',
+    description: 'Blend da casa, queijo prato, alface, tomate, cebola roxa e molho',
+    price: '22.90'
+  },
+  {
+    id: '2',
+    name: 'Burger na chapa',
+    image: 'https://sachefmio.blob.core.windows.net/fotos/americano-triplo-artesanal-25518.jpg',
+    description: 'Blend da casa, alface, tomate, cebola roxa e molho verde',
+    price: '25.90'
+  },
+  {
+    id: '3',
+    name: 'Buguer Castle',
+    image: 'https://www.atendfacil.com.br/app/wp-content/uploads/2020/11/bread-3008950_640.jpg',
+    description: 'Blend da casa, alface, tomate, cebola caramelizada e molho da casa',
+    price: '23.90'
+  },
+  {
+    id: '4',
+    name: 'Chili Burguer',
+    image: 'https://modelo03.catalogodigitalpro.com.br/_core/_uploads/77/2022/01/1437200122ikhajkd3he.jpg',
+    description: 'Blend da casa, queijo cheddar, alface, tomate, cebola caramelizada e molho verde',
+    price: '27.90'
+  },
+  {
+    id: '5',
+    name: 'BomBurger',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLVe1lY-s41APiYGYkyYVuaIKWD66W7gam8g&usqp=CAU',
+    description: 'Blend da casa, queijo cheddar, alface, tomate, cebola caramelizada',
+    price: '32.90'
+  },
+]
